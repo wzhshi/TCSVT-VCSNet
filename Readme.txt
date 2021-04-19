@@ -16,4 +16,4 @@ To use this code, do the following:
 2, Copy the folder "myLayers" to the MatConvNet installation directory.
 3, add the code "addpath(fullfile(root, 'myLayers')) ;" in the file "vl_setupnn.m".
 4, Copy these functions in the folder "Dagnn" into the folder "+dagnn" of the MatConvNet.
-5, Run the file test_VCSNet.m
+5, Run the file test_VCSNet.m to obtain the results with two reference frames.
